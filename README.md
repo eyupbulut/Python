@@ -1,4 +1,3 @@
-## Python
 # Python with cyber security samples
 Bu kısımda kali linux üzerinde kablosuz ağ saldırıları ve güvenliği üzerine kendi araçlarımızı yaptık.
 ~Öncelikle networkü taramak için bir NETWORK SCANNER, mac adresi değiştirmek için bir MAC CHANGER oluşturduk. 
